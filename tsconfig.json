@@ -17,6 +17,7 @@
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true
   },
+  "files": ["src/index.ts"],
   "exclude": [
     "node_modules",
     "build",
